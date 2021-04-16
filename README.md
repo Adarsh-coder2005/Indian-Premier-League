@@ -1,4 +1,4 @@
-This project is created to analyze the successfull team, players and favourable conditions for the win.
+This project is created to analyze the successful team, players and favourable conditions for the win.
 This is created to complete Tash#5 of data science and business analytics.
 
 Tools Used:
